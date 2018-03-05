@@ -1,0 +1,10 @@
+{
+  "name": "puppetfinland-userfacts",
+  "version": "1.0.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Facts related to system users",
+  "source": "https://github.com/Puppet-Finland/puppet-userfacts.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-userfacts",
+  "dependencies": [ ]
+}
